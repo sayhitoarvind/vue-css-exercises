@@ -35,6 +35,7 @@ export default {
   justify-content: center
   color: #FFFFFF
   background-color: #C0C0C0
+  font-size: 32px
 
 .card-image 
   display: flex
